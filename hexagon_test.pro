@@ -37,9 +37,6 @@ SOURCES += \
 HEADERS += \
         mainwindow.h
 
-FORMS += \
-        mainwindow.ui
-
 # Specify Build settings.
 
 CONFIG(release, debug|release) {
